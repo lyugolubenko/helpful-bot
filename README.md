@@ -2,7 +2,7 @@
 A bot that will help you with daily tasks
 
 
-# Instsllation instructions
+# Installation instructions
 
 1) Install Python
 2) Run code with command:
